@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @Ludens509
+Hi 👋 I am Ismaël Ludens Alexandre 
+========================================  
+
+Software Engineer
+----------------- 
+A highly and Enthusiastic motivated  software Engineer on track for a successful career. Reliable and responsible. My studies have provided me with strong foundation in working effectively with others to establish positive relationships.
+
+
 - 👀 I’m interested in Web development (Front-end,Back-end).
 - 🌱 I’m currently learning JavaScript with React Framework.
 - 💞️ I’m looking to collaborate on ...
