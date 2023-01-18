@@ -39,6 +39,6 @@ A highly and Enthusiastic motivated  software Engineer on track for a successful
 ### Latest Blog Posts 💻📚
 <!-- BLOG-POST-LIST:START -->
 
-- [The best way to learn a programming language.]([https://medium.com/@Ludens509/](https://medium.com/@Ludens509/the-best-way-to-learn-a-programming-language-bdd1a5b4fae0))
+- [The best way to learn a programming language.]([https://medium.com/@Ludens509/the-best-way-to-learn-a-programming-language-bdd1a5b4fae0])
 
 <!-- BLOG-POST-LIST:END -->
